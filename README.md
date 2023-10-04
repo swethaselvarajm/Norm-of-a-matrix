@@ -46,12 +46,3 @@ print(norm)
 
 ## Result:
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
-
-
-### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
-
-## Result
-Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
